@@ -4,7 +4,7 @@
 [![Competition](https://img.shields.io/badge/Competition-FOR--species20K-green)](https://doi.org/10.1111/2041-210X.14503)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](https://pytorch.org/)
 
-**Authors:** Raghav Sharma & Frank Zhang  
+**Authors:** Raghav Sharma & Agamjot Kaur
 **Achievement:** 🥈 2nd Place Worldwide  
 **Task:** Tree Species Classification from LiDAR Point Clouds
 

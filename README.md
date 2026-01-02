@@ -5,6 +5,7 @@
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](https://pytorch.org/)
 
 **Authors:** Raghav Sharma & Agamjot Kaur
+
 **Achievement:** 🥈 2nd Place Worldwide  
 **Task:** Tree Species Classification from LiDAR Point Clouds
 

@@ -17,6 +17,8 @@ The FOR-species20K competition challenges participants to classify individual tr
 
 ## 💡 Our Approach
 
+![Ranking](https://github.com/raghav-sharma272381/Forspecies20k-competition/blob/main/thumbnail_image.png?raw=true)
+
 ### Key Innovation: Multi-View Rasterization
 
 Instead of working directly with 3D point clouds, we developed a novel approach that rasterizes LiDAR data into **four complementary 2D projections**:
@@ -29,6 +31,7 @@ Instead of working directly with 3D point clouds, we developed a novel approach 
 These four views are combined into a single **2×2 grid** that serves as input to our CNN:
 
 ![Multi-View Grid Layout](https://github.com/raghav-sharma272381/Forspecies20k-competition/blob/main/grid.png?raw=true)
+
 *Layout: Top row [Nadir | Façade], Bottom row [Rear | Profile]*
 
 ### Architecture

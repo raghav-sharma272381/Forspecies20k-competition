@@ -41,12 +41,9 @@ These four views are combined into a single **2×2 grid** that serves as input t
 
 ### Data Processing Pipeline
 
-**Nadir View Encoding (3-channel RGB):**
-- Red: Point density with logarithmic scaling
-- Green: Normalized mean height per pixel
-- Blue: Normalized height variation (structural complexity)
 
-**Side Views (Façade, Profile, Rear):**
+
+** Tree Views (Nadir, Façade, Profile, Rear):**
 - Single-channel grayscale
 - Point density with logarithmic enhancement
 - X-Z plane projections
